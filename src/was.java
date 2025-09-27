@@ -18,5 +18,7 @@ int ag=1;
         System.out.printf("\n Hello \n %d\n", ag);
         System.out.println(result);
 
+        int id1= 223233;
+        System.out.printf("%04d\n", id1);
     }
 }

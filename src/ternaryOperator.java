@@ -9,3 +9,4 @@ public class ternaryOperator {
         System.out.println(evenOrOdd);
     }
 }
+

@@ -8,7 +8,7 @@ public class dicerole {
 
         int inpt;
         int dice;
-        int j;
+
         int count=0;
         System.out.print("Enter the # of the role you want: ");
         inpt = scan.nextInt();
@@ -59,8 +59,6 @@ public class dicerole {
            count +=dice;
         }
         System.out.println("Total role: "+ count);
-
-
-
     }
 }
+
